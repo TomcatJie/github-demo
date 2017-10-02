@@ -1,4 +1,4 @@
 function fn(){
 	console.log(hellow world);
-	console.log(lisi);
+	console.log("李四");
 }
